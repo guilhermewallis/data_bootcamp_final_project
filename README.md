@@ -1,12 +1,16 @@
 # Ironhack Data Analytics Final Project
 ## Natural Language Processing for sentiment analysis in the video game market
 
+### Files:
+https://drive.google.com/drive/folders/1xwe1usoqbGiXYXnaUUfiD3n-F4SHa8rE?usp=sharing
+
 ### Goal:
 - Identifying products that perform well or poorly according to user feedback and the factors behind it
 - Useful alongside sales numbers and active player counts for a deeper analysis of the video game market
 
 ### Dataset overview:
 - Sourced from Kaggle
+  - https://www.kaggle.com/datasets/lucaspoo/steam-reviews-international
 - User reviews from Steam
 - 370000 reviews on 36000 games
 - Rating system: Recommended / Not Recommended
